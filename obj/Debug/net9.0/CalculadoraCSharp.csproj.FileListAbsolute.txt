@@ -12,3 +12,4 @@ C:\Users\Gabry\Projects\Dio\DotNet\CalculadoraCSharp\obj\Debug\net9.0\refint\Cal
 C:\Users\Gabry\Projects\Dio\DotNet\CalculadoraCSharp\obj\Debug\net9.0\CalculadoraCSharp.pdb
 C:\Users\Gabry\Projects\Dio\DotNet\CalculadoraCSharp\obj\Debug\net9.0\CalculadoraCSharp.genruntimeconfig.cache
 C:\Users\Gabry\Projects\Dio\DotNet\CalculadoraCSharp\obj\Debug\net9.0\ref\CalculadoraCSharp.dll
+C:\Users\Gabry\Projects\Dio\DotNet\CalculadoraCSharp\obj\Debug\net9.0\CalculadoraCSharp.sourcelink.json

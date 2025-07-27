@@ -36,5 +36,47 @@ namespace CalculadoraCSharp.Models
         {
             Console.WriteLine($"{x} / {y} = {x / y}");//divide
         }
+
+        public void Potencia(int x, int y)
+        {
+            double pot = Math.Pow(x, y);
+            Console.WriteLine($"{x}^{y} = {pot}");//calcula a potenciação
+        }
+
+        //________________SEn, Cos e Tan____________________
+        // Esses métodos calculam o seno, cosseno e tangente de um ângulo
+
+        public void Seno(double angulo)
+        {
+            double radiano = angulo * (Math.PI / 180); // Converte graus para radianos
+            double seno = Math.Sin(radiano);
+            //sin = Seno
+            Console.WriteLine($"Seno de {angulo}° = {Math.Round(seno, 4)}");
+
+        }
+        public void Coseno(double angulo)
+        {
+            double radiano = angulo * (Math.PI / 180); // Converte graus para radianos
+            double coseno = Math.Cos(radiano);
+            //cos = Coseno
+            Console.WriteLine($"Coseno de {angulo}° = {Math.Round(coseno, 4)}");
+
+        }
+
+        public void Tangente(double angulo)
+        {
+            double radiano = angulo * (Math.PI / 180); // Converte graus para radianos
+            double tangente = Math.Tan(radiano);
+            //tan = Tangente
+            Console.WriteLine($"Tangente de {angulo}° = {Math.Round(tangente, 4)}");
+
+        }
+
+        public void RaizQuadrada(double x)
+        {
+            double raiz = Math.Sqrt(x);
+            Console.WriteLine($"Raiz quadrada de {x} = {raiz}");
+
+        }
     }
 }
