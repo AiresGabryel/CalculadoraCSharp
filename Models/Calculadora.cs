@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 // O namespace é como um "endereço" ou um "sobrenome" para a sua classe.
 // É uma boa prática que o namespace siga a estrutura de pastas.
 // Como o arquivo está em "Models", o namespace é "CalculadoraCSharp.Models".
-namespace CalculadoraCSharp.Models
+namespace CalculadoraCSharp.Models// faz a referencia ao namespace onde a classe está localizada
 {
     // 2. Definição da Classe
     // Esta é a declaração da sua classe.
