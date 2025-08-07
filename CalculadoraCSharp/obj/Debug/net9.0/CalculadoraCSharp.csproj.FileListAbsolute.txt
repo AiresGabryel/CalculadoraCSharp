@@ -1,0 +1,49 @@
+C:\Users\Gabry\Projects\Dio\DotNet\CalculadoraCSharp\obj\Debug\net9.0\CalculadoraCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabry\Projects\Dio\DotNet\CalculadoraCSharp\obj\Debug\net9.0\CalculadoraCSharp.AssemblyInfoInputs.cache
+C:\Users\Gabry\Projects\Dio\DotNet\CalculadoraCSharp\obj\Debug\net9.0\CalculadoraCSharp.AssemblyInfo.cs
+C:\Users\Gabry\Projects\Dio\DotNet\CalculadoraCSharp\obj\Debug\net9.0\CalculadoraCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Gabry\Projects\Dio\DotNet\CalculadoraCSharp\bin\Debug\net9.0\CalculadoraCSharp.exe
+C:\Users\Gabry\Projects\Dio\DotNet\CalculadoraCSharp\bin\Debug\net9.0\CalculadoraCSharp.deps.json
+C:\Users\Gabry\Projects\Dio\DotNet\CalculadoraCSharp\bin\Debug\net9.0\CalculadoraCSharp.runtimeconfig.json
+C:\Users\Gabry\Projects\Dio\DotNet\CalculadoraCSharp\bin\Debug\net9.0\CalculadoraCSharp.dll
+C:\Users\Gabry\Projects\Dio\DotNet\CalculadoraCSharp\bin\Debug\net9.0\CalculadoraCSharp.pdb
+C:\Users\Gabry\Projects\Dio\DotNet\CalculadoraCSharp\obj\Debug\net9.0\CalculadoraCSharp.dll
+C:\Users\Gabry\Projects\Dio\DotNet\CalculadoraCSharp\obj\Debug\net9.0\refint\CalculadoraCSharp.dll
+C:\Users\Gabry\Projects\Dio\DotNet\CalculadoraCSharp\obj\Debug\net9.0\CalculadoraCSharp.pdb
+C:\Users\Gabry\Projects\Dio\DotNet\CalculadoraCSharp\obj\Debug\net9.0\CalculadoraCSharp.genruntimeconfig.cache
+C:\Users\Gabry\Projects\Dio\DotNet\CalculadoraCSharp\obj\Debug\net9.0\ref\CalculadoraCSharp.dll
+C:\Users\Gabry\Projects\Dio\DotNet\CalculadoraCSharp\obj\Debug\net9.0\CalculadoraCSharp.sourcelink.json
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\bin\Debug\net9.0\CalculadoraCSharp.exe
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\bin\Debug\net9.0\CalculadoraCSharp.deps.json
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\bin\Debug\net9.0\CalculadoraCSharp.runtimeconfig.json
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\bin\Debug\net9.0\CalculadoraCSharp.dll
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\bin\Debug\net9.0\CalculadoraCSharp.pdb
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\obj\Debug\net9.0\CalculadoraCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\obj\Debug\net9.0\CalculadoraCSharp.AssemblyInfoInputs.cache
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\obj\Debug\net9.0\CalculadoraCSharp.AssemblyInfo.cs
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\obj\Debug\net9.0\CalculadoraCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\obj\Debug\net9.0\CalculadoraCSharp.sourcelink.json
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\obj\Debug\net9.0\CalculadoraCSharp.dll
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\obj\Debug\net9.0\refint\CalculadoraCSharp.dll
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\obj\Debug\net9.0\CalculadoraCSharp.pdb
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\obj\Debug\net9.0\CalculadoraCSharp.genruntimeconfig.cache
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\obj\Debug\net9.0\ref\CalculadoraCSharp.dll
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\CalculadoraCSharp\bin\Debug\net9.0\CalculadoraCSharp.exe
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\CalculadoraCSharp\bin\Debug\net9.0\CalculadoraCSharp.deps.json
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\CalculadoraCSharp\bin\Debug\net9.0\CalculadoraCSharp.runtimeconfig.json
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\CalculadoraCSharp\bin\Debug\net9.0\CalculadoraCSharp.dll
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\CalculadoraCSharp\bin\Debug\net9.0\CalculadoraCSharp.pdb
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\CalculadoraCSharp\bin\Debug\net9.0\CalculadoraCSharp.Common.dll
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\CalculadoraCSharp\bin\Debug\net9.0\CalculadoraCSharp.Common.pdb
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\CalculadoraCSharp\obj\Debug\net9.0\CalculadoraCSharp.csproj.AssemblyReference.cache
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\CalculadoraCSharp\obj\Debug\net9.0\CalculadoraCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\CalculadoraCSharp\obj\Debug\net9.0\CalculadoraCSharp.AssemblyInfoInputs.cache
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\CalculadoraCSharp\obj\Debug\net9.0\CalculadoraCSharp.AssemblyInfo.cs
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\CalculadoraCSharp\obj\Debug\net9.0\CalculadoraCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\CalculadoraCSharp\obj\Debug\net9.0\CalculadoraCSharp.sourcelink.json
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\CalculadoraCSharp\obj\Debug\net9.0\Calculad.6B7ACCC0.Up2Date
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\CalculadoraCSharp\obj\Debug\net9.0\CalculadoraCSharp.dll
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\CalculadoraCSharp\obj\Debug\net9.0\refint\CalculadoraCSharp.dll
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\CalculadoraCSharp\obj\Debug\net9.0\CalculadoraCSharp.pdb
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\CalculadoraCSharp\obj\Debug\net9.0\CalculadoraCSharp.genruntimeconfig.cache
+C:\Users\Gabry\Projects\Dio\DotNet\Projeto C#\CalculadoraCSharp\obj\Debug\net9.0\ref\CalculadoraCSharp.dll

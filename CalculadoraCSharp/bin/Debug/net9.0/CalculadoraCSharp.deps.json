@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CalculadoraCSharp/1.0.0": {
+        "dependencies": {
+          "CalculadoraCSharp.Common": "1.0.0"
+        },
+        "runtime": {
+          "CalculadoraCSharp.dll": {}
+        }
+      },
+      "CalculadoraCSharp.Common/1.0.0": {
+        "runtime": {
+          "CalculadoraCSharp.Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculadoraCSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculadoraCSharp.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
